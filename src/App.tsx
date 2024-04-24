@@ -14,7 +14,6 @@ import {
 import { reducer, initialState, TYPES } from './AppReducer'
 import { useMsgAfterSubmit } from './hooks'
 
-import HeroSvg from './components/HeroSvg'
 function App() {
   const [
     {
