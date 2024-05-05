@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/mat-oyun/static/js/main.bc96ab4a.js",
+    "static/media/bg.jpg": "/mat-oyun/static/media/bg.ca1d297bf2bec172a380.jpg",
+    "static/media/orc.png": "/mat-oyun/static/media/orc.a509f3c097b8b3980c61.png",
+    "static/media/hero.png": "/mat-oyun/static/media/hero.32e725365304a31a6899.png",
+    "index.html": "/mat-oyun/index.html",
+    "main.bc96ab4a.js.map": "/mat-oyun/static/js/main.bc96ab4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc96ab4a.js"
+  ]
+}
